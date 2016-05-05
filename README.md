@@ -1,6 +1,9 @@
-# tweet-filter
+# tweet-hider
 
-Tweet filter chrome extension.
+This extension lets you hide any tweet.
 
-This is a **work in progress**. I'll put it on the Chrome web store when it's ready for use.
+## Note on the libs
 
+When bundling to store, I remove the non-minified files. They are only for phpstorm.
+
+Also, sorry, jQuery haters. It was easier this way.
